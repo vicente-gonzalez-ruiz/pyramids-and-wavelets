@@ -1,4 +1,4 @@
 # pyramids-and-wavelets
 Some comments about their (mathematical) relationship
 
-[Click me](https://cdn.rawgit.com/vicente-gonzalez-ruiz/pyramids-and-wavelets/master/index.html).
+[Click me](https://vicente-gonzalez-ruiz.github.io/pyramids-and-wavelets/).
